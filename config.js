@@ -43,14 +43,14 @@ const CONFIG = {
     // They show up depending on how far they slide the meter
     loveMessages: {
         extreme: "MITÄ IHMETTÄ AI NOIN PALJONKO OIKEASTI OMGOMGOMG VIELÄ ENEMMÄN RAKAS 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
+        high: "HEHEE NYT ALKAA LÖYTYMÄÄN 🚀💝",              // Shows when they go past 1000%
         normal: "LISÄÄÄÄÄ ENEMMÄÄÄN LISÄÄÄÄ 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Olen kyllä maailman onnekkain poju! 🎉💝💖💝💓",
-        message: "Nähdään tänään crossfitissä, ja et uskokkaan mihin kaikkialle tämä päivä voi viedä!",
+        message: "Nähdään tänään crossfitissä, ja et katsotaan miten kivalta tämä rakkausjuttu oikein voikaan tuntua ja mihin se voi viedä tänään... Toivottavasti oot yhtä innoisaan kun minä.. oon ihan täpinöissäni tästä !!,,,!..",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
